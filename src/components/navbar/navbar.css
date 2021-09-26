@@ -1,0 +1,12 @@
+.head{
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px;
+    height: 40px;
+    align-items: center;
+    display: flex;
+}
+
+.titulo{
+    color: darkred;
+}

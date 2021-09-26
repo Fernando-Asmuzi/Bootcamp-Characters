@@ -1,0 +1,15 @@
+.char {
+    margin: 15px;  
+  }
+
+.photo{
+
+    height: 200px;
+}
+
+ul{
+    display: inline-flex;
+    background-color: darkgrey;
+    margin: 0px;
+    height: 100%;
+}

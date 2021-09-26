@@ -1,0 +1,11 @@
+.selector{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.character{
+    display: flex;
+   
+    justify-content: space-around;
+}

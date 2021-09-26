@@ -1,0 +1,54 @@
+{
+    "Characters": [
+        {   
+            "name": "Claire",
+            "lastname": "Miyanoshita",
+            "age": "12",
+            "photo": "https://cdn.myanimelist.net/images/characters/16/209613.jpg",
+            "ability": "Control de demonios y fantasmas",
+            "Friends": ["Ben,", "Nicole,", "Ned,", "Paul"]
+        },
+        {   
+            "name": "Kaya/Amanojaku",
+            "lastname": "",
+            "age": "Inicio de los tiempos",
+            "photo": "https://cdn.myanimelist.net/images/characters/13/80214.jpg",
+            "ability":"Poderes demoniacos, habilidades felinas",
+            "Friends": ["Ben"]
+        },
+        {   
+            "name": "Ben",
+            "lastname": "Miyanoshita",
+            "age": "6",
+            "photo": "https://cdn.myanimelist.net/images/characters/8/255639.jpg",
+            "ability":"Percepción del mal",
+            "Friends": ["Kaya,", "Claire,", "Nicole,", "Ned,", "Paul"]
+        },
+        {   
+            "name": "Nicole",
+            "lastname": "Koigakubo",
+            "age": "13",
+            "photo": "https://cdn.myanimelist.net/images/characters/2/255637.jpg",
+            "ability":"Poderes psíquicos",
+            "Friends": ["Ben,", "Claire,", "Ned,", "Paul,"]
+        },
+        {   
+            "name": "Ned",
+            "lastname": "Aoyama",
+            "age": "12",
+            "photo": "https://cdn.myanimelist.net/images/characters/6/255633.jpg",
+            "ability":"Valentía",
+            "Friends": ["Ben,", "Claire,", "Nicole,", "Paul,"]
+        },
+        {   
+            "name": "Paul",
+            "lastname": "Kakinoki",
+            "age": "12",
+            "photo": "https://cdn.myanimelist.net/images/characters/11/255635.jpg",
+            "ability":"Inteligencia",
+            "Friends": ["Ben,", "Claire,", "Nicole,", "Paul,"]
+        }
+    ]
+
+
+}
